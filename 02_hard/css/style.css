@@ -1,0 +1,53 @@
+header {
+  text-align: center;
+  background-color: rgb(148, 24, 24);
+}
+nav {
+  background-color: black;
+}
+nav,
+a {
+  display: block;
+  text-decoration: none;
+  color: white;
+}
+table {
+  width: 100%;
+}
+aside {
+  background-color: rgb(148, 24, 24);
+}
+.menu,
+.title {
+  width: 15%;
+  text-align: center;
+}
+.text {
+  width: 70%;
+  background-color: rgb(196, 37, 37);
+  color: white;
+  padding: 15px;
+}
+li {
+  list-style-type: none;
+}
+hr {
+  width: 50%;
+  height: 100%;
+}
+h4 {
+  color: black;
+  background-color: rgb(184, 178, 178);
+}
+article {
+  background-color: bisque;
+  padding: 1px;
+}
+footer {
+  text-align: center;
+}
+footer,
+div {
+  color: white;
+  background-color: orangered;
+}
